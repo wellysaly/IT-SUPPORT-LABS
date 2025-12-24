@@ -8,3 +8,4 @@ network troubleshooting, and PC hardware support.
 - File Permissions & Shared Folder Management
 - Networking Fundamentals
 - PC Hardware & System Troubleshooting
+- Cloud Server Management
